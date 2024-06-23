@@ -8,7 +8,7 @@ export class Navbar extends Component {
         return (
         <div>
 
-            <nav className="navbar navbar-expand-lg bg-body-tertiary">
+            <nav className="navbar navbar-expand-lg navbar-dark bg-dark ">
                 
                 <div className="container-fluid">
 
