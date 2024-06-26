@@ -51,6 +51,9 @@ export default class App extends Component {
 
 
 
+
+
+
 // export default class App extends Component {
 //   render() {
 //     return (
@@ -72,3 +75,13 @@ export default class App extends Component {
 //     )
 //   }
 // }
+
+
+
+
+
+
+
+
+
+/************************************************************* Class Based Component ***************************************************/
